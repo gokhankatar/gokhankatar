@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/gokhan_crypto" target="blank"><img src="https://img.shields.io/twitter/follow/gokhan_crypto?logo=twitter&style=for-the-badge" alt="gokhan_crypto" /></a> </p>
 
-- 🔭 I’m currently working on **NodeJs**
-
 - 🌱 I’m currently learning **NodeJs**
 
 - 👨‍💻 All of my projects are available at [www.gksoftware.net](https://www.gksoftware.net)
