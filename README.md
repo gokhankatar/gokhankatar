@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 👨‍💻 All of my projects are available at [www.gksoftware.net](www.gksoftware.net)
+- 👨‍💻 All of my projects are available at [www.gksoftware.net](https://www.gksoftware.net)
 
 - 💬 Ask me about **vue, nuxt**
 
