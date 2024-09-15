@@ -1,4 +1,4 @@
-<img src="https://jessup.edu/wp-content/uploads/2024/01/Is-Web-Development-Oversaturated.jpg" alt="Gokhan Katar" width="100%" height="250" style="border-radius:'100px;'" />
+<img src="https://jessup.edu/wp-content/uploads/2024/01/Is-Web-Development-Oversaturated.jpg" alt="Gokhan Katar" width="100%" height="250" style={border-radius:10px;} />
 <h1 align="center">Hi 👋, I'm Gokhan Katar</h1>
 <h3 align="center">Front End Developer</h3>
 
